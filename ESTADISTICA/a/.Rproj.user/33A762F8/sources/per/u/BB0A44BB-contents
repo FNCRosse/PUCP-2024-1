@@ -1,0 +1,20 @@
+hipertension_data <- subset(datos, pre > 120)
+# Calcular la diferencia (post - pre)
+hipertension_data$diff <- hipertension_data$post - hipertension_data$pre
+
+# Calcular la media y el error estándar de la diferencia
+mean_diff <- mean(hipertension_data$diff)
+std_error_diff <- sd(hipertension_data$diff) / sqrt(length(hipertension_data$diff))
+
+# Calcular el intervalo de confianza al 95%
+alpha <- 0.05
+t_value <- qt(1 - alpha/2, df = length(hipertension_data$diff) - 1)
+lower_bound <- mean_diff - t_value * std_error_diff
+upper_bound <- mean_diff + t_value * std_error_diff
+
+# Resultados
+mean_diff
+lower_bound
+upper_bound
+
+t.test(x=hipertension_data$diff,conf.level = 0.95)

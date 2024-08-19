@@ -1,0 +1,120 @@
+  CODIGO         NOMBRE                                          CREDITOS
+  INF263         Algoritmia                                        3.75
+  Profesor:  INGA_FLORES_CESAR_ADOLFO                [35030611]
+  Alumnos matriculados: 
+  Semetre      Codigo
+  Numero de alumnos: 0
+  Total ingresados: 
+
+  CODIGO         NOMBRE                                          CREDITOS
+  MEC270         Procesos_De_Manufactura                           4
+  Profesor:  PAIRAZAMAN_ALAMO_MOISES_MIGUEL          [83265244]
+  Alumnos matriculados: 
+  Semetre      Codigo
+   202111      1397
+  Numero de alumnos: 1
+  Total ingresados: 
+
+  CODIGO         NOMBRE                                          CREDITOS
+  MEC289         Turbomaquinas_Y_Maquinas_De_Desplazamiento_Positivo4.25
+  Profesor:  DELGADO_GONZALES_GUILLERMO_ALFONSO      [49516360]
+  Alumnos matriculados: 
+  Semetre      Codigo
+  Numero de alumnos: 0
+  Total ingresados: 
+
+  CODIGO         NOMBRE                                          CREDITOS
+  MAT241         Metodos_Numericos_En_Ingenieria                   3
+  Profesor:  HERNANDEZ_BARRIOS_EMILIO_               [17750908]
+  Alumnos matriculados: 
+  Semetre      Codigo
+  Numero de alumnos: 0
+  Total ingresados: 
+
+  CODIGO         NOMBRE                                          CREDITOS
+  MEC206         Termodinamica_1                                   4.5
+  Profesor:  SALAS_AGUERO_DANIEL_                    [66152145]
+  Alumnos matriculados: 
+  Semetre      Codigo
+   202115      5802
+  Numero de alumnos: 1
+  Total ingresados: 
+
+  CODIGO         NOMBRE                                          CREDITOS
+  INF246         Bases_De_Datos                                    3.75
+  Profesor:  MEJIA_DIAZ_BLANCA_MILAGROS              [65071478]
+  Alumnos matriculados: 
+  Semetre      Codigo
+  Numero de alumnos: 0
+  Total ingresados: 
+
+  CODIGO         NOMBRE                                          CREDITOS
+  FIS220         Tecnicas_Computacionales_En_Fisica                4.5
+  Profesor:  VASQUEZ_PAZ_ALEX_MARTIN                 [37500242]
+  Alumnos matriculados: 
+  Semetre      Codigo
+  Numero de alumnos: 0
+  Total ingresados: 
+
+  SEMESTRE   CODIGO    NOMBRE                        MODALIDAD                ESCALA
+  20211       1260     GORDILLO/CASTRO/RONAL         PRESENCIAL                  2
+  Codigos de cursos matriculados:
+  Numero de Cursos: 0
+  Costo Total: 
+
+  SEMESTRE   CODIGO    NOMBRE                        MODALIDAD                ESCALA
+  20211       1397     ZEVALLOS/PRADO/RICARDO        SEMI PRESENCIAL   CON 50%         2
+  Codigos de cursos matriculados:
+         MEC270
+  Numero de Cursos: 1
+  Costo Total: 
+
+  SEMESTRE   CODIGO    NOMBRE                        MODALIDAD                ESCALA
+  20211       2598     MORI/ZAVALETA/LUZ-LOURDES     SEMI PRESENCIAL   CON 20%         1
+  Codigos de cursos matriculados:
+  Numero de Cursos: 0
+  Costo Total: 
+
+  SEMESTRE   CODIGO    NOMBRE                        MODALIDAD                ESCALA
+  20211       2887     CABRERA/AGUERO/JESSICA        SEMI PRESENCIAL   CON 50%         2
+  Codigos de cursos matriculados:
+  Numero de Cursos: 0
+  Costo Total: 
+
+  SEMESTRE   CODIGO    NOMBRE                        MODALIDAD                ESCALA
+  20211       3223     DIAZ/SEDANO/YVONNE            SEMI PRESENCIAL   CON 30%         4
+  Codigos de cursos matriculados:
+  Numero de Cursos: 0
+  Costo Total: 
+
+  SEMESTRE   CODIGO    NOMBRE                        MODALIDAD                ESCALA
+  20211       3758     SOMA/INGA/DIALY               PRESENCIAL                  1
+  Codigos de cursos matriculados:
+  Numero de Cursos: 0
+  Costo Total: 
+
+  SEMESTRE   CODIGO    NOMBRE                        MODALIDAD                ESCALA
+  20211       4285     CHAVARRI/ALDAVE/FERNANDO-MARTINSEMI PRESENCIAL   CON 25%         2
+  Codigos de cursos matriculados:
+  Numero de Cursos: 0
+  Costo Total: 
+
+  SEMESTRE   CODIGO    NOMBRE                        MODALIDAD                ESCALA
+  20211       4739     VELASQUEZ/CANO/FERNANDO       SEMI PRESENCIAL   CON 50%         4
+  Codigos de cursos matriculados:
+  Numero de Cursos: 0
+  Costo Total: 
+
+  SEMESTRE   CODIGO    NOMBRE                        MODALIDAD                ESCALA
+  20211       5400     SANTISTEBAN/JUGO/NESTOR       SEMI PRESENCIAL   CON 30%         1
+  Codigos de cursos matriculados:
+  Numero de Cursos: 0
+  Costo Total: 
+
+  SEMESTRE   CODIGO    NOMBRE                        MODALIDAD                ESCALA
+  20211       5802     MINAYA/AMEZQUITA/RHONY-JAIME  PRESENCIAL                  5
+  Codigos de cursos matriculados:
+         MEC206
+  Numero de Cursos: 1
+  Costo Total: 
+

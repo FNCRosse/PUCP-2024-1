@@ -1,0 +1,22 @@
+Codigo Cliente:     11602775
+Placa:              D8R-235
+Carga Maxima:       1000
+Carga Actual:       705
+#Ejes:              3
+#Llantas:           6
+Lista de Pedidos:
+    1   KBY.991        4     180
+    2   KBY.991        1     40
+    3   KBY.991        4     240
+    4   KBY.991        3     165
+    5   KBY.991        2     80
+Codigo Cliente:     12663268
+Placa:              U0T-459
+Carga Maxima:       1500
+Carga Actual:       546.5
+#Ejes:              3
+#Llantas:           8
+Lista de Pedidos:
+    1   KBY.991        3     5.1
+    2   KBY.991        4     6.4
+    3   KBY.991        6     330

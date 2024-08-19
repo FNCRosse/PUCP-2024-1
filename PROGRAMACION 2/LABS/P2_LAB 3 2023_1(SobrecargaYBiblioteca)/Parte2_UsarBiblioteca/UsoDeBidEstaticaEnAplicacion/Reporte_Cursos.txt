@@ -1,0 +1,193 @@
+  CODIGO         NOMBRE                                          CREDITOS
+  INF263         Algoritmia                                        3.75
+  Profesor:  INGA_FLORES_CESAR_ADOLFO                [35030611]
+  Alumnos matriculados: 
+  Semetre      Codigo
+   202318      8320
+   202125      5400
+   202319      9103
+   202313      3065
+   202315      5527
+   202115      5802
+   202217      7030
+   202127      7660
+   202312      2050
+   202318      8072
+   202222      2447
+   202318      8383
+   202318      8318
+   202127      7344
+   202224      4569
+   202129      9735
+   202211      1325
+  Numero de alumnos: 17
+  Total ingresados: 
+
+  CODIGO         NOMBRE                                          CREDITOS
+  MEC270         Procesos_De_Manufactura                           4
+  Profesor:  PAIRAZAMAN_ALAMO_MOISES_MIGUEL          [83265244]
+  Alumnos matriculados: 
+  Semetre      Codigo
+   202111      1397
+   202129      9719
+   202226      6929
+   202225      5778
+   202216      6453
+   202315      5643
+   202312      2360
+   202219      9437
+   202224      4569
+   202311      1247
+   202113      3223
+   202226      6249
+   202312      2501
+   202125      5400
+   202125      5775
+   202313      3754
+   202315      5724
+   202119      9153
+   202119      9958
+   202127      7344
+   202215      5494
+  Numero de alumnos: 21
+  Total ingresados: 
+
+  CODIGO         NOMBRE                                          CREDITOS
+  MEC289         Turbomaquinas_Y_Maquinas_De_Desplazamiento_Positivo4.25
+  Profesor:  DELGADO_GONZALES_GUILLERMO_ALFONSO      [49516360]
+  Alumnos matriculados: 
+  Semetre      Codigo
+   202312      2000
+   202214      4204
+   202219      9437
+   202227      7316
+   202313      3122
+   202111      1260
+   202119      9707
+   202129      9735
+   202114      4285
+   202226      6249
+   202116      6963
+   202115      5802
+   202312      2360
+   202215      5067
+   202318      8320
+  Numero de alumnos: 15
+  Total ingresados: 
+
+  CODIGO         NOMBRE                                          CREDITOS
+  MAT241         Metodos_Numericos_En_Ingenieria                   3
+  Profesor:  HERNANDEZ_BARRIOS_EMILIO_               [17750908]
+  Alumnos matriculados: 
+  Semetre      Codigo
+   202216      6453
+   202225      5400
+   202318      8320
+   202121      1791
+   202219      9773
+   202125      5400
+   202225      5778
+   202315      5724
+   202313      3249
+   202129      9785
+   202116      6038
+   202315      5763
+   202313      3122
+   202211      1325
+   202319      9927
+   202319      9103
+   202315      5318
+   202114      4739
+   202214      4712
+   202311      1247
+   202119      9958
+   202315      5400
+   202312      2050
+  Numero de alumnos: 23
+  Total ingresados: 
+
+  CODIGO         NOMBRE                                          CREDITOS
+  MEC206         Termodinamica_1                                   4.5
+  Profesor:  SALAS_AGUERO_DANIEL_                    [66152145]
+  Alumnos matriculados: 
+  Semetre      Codigo
+   202215      5494
+   202115      5802
+   202223      3508
+   202313      3122
+   202312      2000
+   202224      4569
+   202126      6490
+   202125      5607
+   202312      2501
+   202312      2050
+   202114      4739
+   202215      5067
+   202116      6963
+   202125      5775
+   202216      6453
+  Numero de alumnos: 15
+  Total ingresados: 
+
+  CODIGO         NOMBRE                                          CREDITOS
+  INF246         Bases_De_Datos                                    3.75
+  Profesor:  MEJIA_DIAZ_BLANCA_MILAGROS              [65071478]
+  Alumnos matriculados: 
+  Semetre      Codigo
+   202313      3754
+   202214      4204
+   202312      2360
+   202225      5400
+   202214      4712
+   202311      1748
+   202111      1260
+   202316      6015
+   202213      3745
+   202119      9958
+   202315      5318
+   202315      5527
+   202225      5778
+   202315      5643
+   202315      5724
+   202219      9773
+   202123      3373
+   202116      6038
+   202318      8318
+   202129      9719
+   202319      9103
+   202318      8383
+   202123      3402
+   202313      3249
+   202119      9707
+  Numero de alumnos: 25
+  Total ingresados: 
+
+  CODIGO         NOMBRE                                          CREDITOS
+  FIS220         Tecnicas_Computacionales_En_Fisica                4.5
+  Profesor:  VASQUEZ_PAZ_ALEX_MARTIN                 [37500242]
+  Alumnos matriculados: 
+  Semetre      Codigo
+   202125      5775
+   202313      3249
+   202318      8320
+   202315      5400
+   202215      5494
+   202223      3508
+   202319      9103
+   202224      4569
+   202125      5607
+   202226      6929
+   202119      9153
+   202129      9719
+   202311      1748
+   202129      9735
+   202312      2360
+   202116      6963
+   202316      6015
+   202312      2000
+   202122      2742
+   202115      5400
+   202111      1397
+  Numero de alumnos: 21
+  Total ingresados: 
+

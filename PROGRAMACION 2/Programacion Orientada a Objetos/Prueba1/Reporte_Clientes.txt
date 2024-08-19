@@ -1,0 +1,8 @@
+Reyes Tang Edward                                 54393647
+Libro entregados:
+     Pedido No.  Codigo      Precio
+     13          JLQ6546     54.97
+     86          JLQ6546     146.19
+     86          JLQ6546     68.15
+Total a pagar: 269.31
+Libro NO entregados por falta de stock:

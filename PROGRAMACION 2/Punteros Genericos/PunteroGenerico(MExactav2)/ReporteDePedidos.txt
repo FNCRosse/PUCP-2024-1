@@ -1,0 +1,625 @@
+59      34460612      Morales Valverde Ines Martha            Cantidad Libros Pedidos: 2
+          CRY6839   Ricardo III
+          VYG3594   Los demonios
+140     42302422      Maldonado Ramirez Silvana               Cantidad Libros Pedidos: 2
+          WPU8819   Tristam Shandy
+          CTW5846   El medievo cristiano
+167     34460612      Morales Valverde Ines Martha            Cantidad Libros Pedidos: 2
+          PQZ1316   La Eneida
+          XCC4070   El italiano
+9       46582367      Justino Forzani Ericka Victoria         Cantidad Libros Pedidos: 2
+          IIM5175   Diamantes y pedernales
+          MBQ9495   Tormenta de espadas
+35      37751890      Romero Palomares Gloria Tatiana         Cantidad Libros Pedidos: 2
+          KWL0415   1923
+          IMK4892   La tabla de Flandes
+132     69200503      Norabuena Preciado Cinthia              Cantidad Libros Pedidos: 4
+          CPE5718   Paris era una fiesta
+          KGO1734   Una historia del mundo
+          IUG2294   El proceso
+          ILG7766   Iliada
+155     36699613      Mejia De La Haza Francisco Edgar        Cantidad Libros Pedidos: 2
+          SMW0186   La sombra del viento
+          SBU9053   Tierra arrasada
+80      51235238      Prado Falcon Edgar Richard              Cantidad Libros Pedidos: 1
+          ZAL2738   1984
+84      60740809      Lozada Yino Martha                      Cantidad Libros Pedidos: 3
+          XTM9385   El mundo
+          VSG3432   Bajo bandera negra
+          CTW5846   El medievo cristiano
+144     72832218      Vega Garcia Janet Rebeca                Cantidad Libros Pedidos: 3
+          HWM4049   Romper el circulo
+          MNL3677   El Hobbit
+          VMW6915   Travesuras de la ninia mala
+10      47659552      Prado Vergel Carlos Julian              Cantidad Libros Pedidos: 4
+          QMI4747   La isla de los amores infinitos
+          IUI3314   El coronel no tiene quien le escriba
+          NFP3266   Sabotaje
+          QRH6838   Las cronicas de Narnia
+143     69200503      Norabuena Preciado Cinthia              Cantidad Libros Pedidos: 2
+          DVL7760   Falco
+          UEJ1235   Grandes esperanzas
+92      54393647      Reyes Tang Edward                       Cantidad Libros Pedidos: 2
+          UCJ9882   El reino de este mundo
+          SPM4763   Eva
+63      33583840      Villa Yallico Tatiana Nancy             Cantidad Libros Pedidos: 4
+          KSX7995   El simbolo perdidoi
+          WPU8819   Tristam Shandy
+          JJV7549   Los hombres que no amaban a las mujeres
+          JBR9372   El maestro de esgrima
+27      27109544      Henriquez Espino Beatriz                Cantidad Libros Pedidos: 4
+          WWT1581   La piel del tambor
+          OBD2849   El invierno del mundo
+          CMP1150   Don Quijote de la Mancha
+          HSE3213   Por quien doblan las campanas
+151     65071478      Arroyo Gordillo Maria Heli              Cantidad Libros Pedidos: 1
+          RWW7975   El nombre de la rosa
+136     38724322      Inga Flores Cesar Adolfo                Cantidad Libros Pedidos: 3
+          RSK1164   El amor en los tiempos del colera
+          HGN9910   La ciudad y los perros
+          HWM4049   Romper el circulo
+115     11750801      Raffo Arias Surami Annie                Cantidad Libros Pedidos: 4
+          KGO1734   Una historia del mundo
+          CRY6839   Ricardo III
+          HCT8192   Diario
+          VDL9379   Los juegos del hambre
+131     32231860      Cerna Hijar Jose Rolando                Cantidad Libros Pedidos: 2
+          DDQ0721   En busca del tiempo perdido
+          RWW7975   El nombre de la rosa
+96      86898639      Pasquel Quio Surami Janet               Cantidad Libros Pedidos: 2
+          XIU2628   Cabo Trafalgar
+          UEJ1235   Grandes esperanzas
+48      47659552      Prado Vergel Carlos Julian              Cantidad Libros Pedidos: 2
+          XIU6076   Rebelion en la granja
+          VFI8064   A sangre fria
+3       92240876      Mejia Diaz Blanca Milagros              Cantidad Libros Pedidos: 2
+          BTX3816   El jugador
+          DEK2757   En llamas
+40      65071478      Arroyo Gordillo Maria Heli              Cantidad Libros Pedidos: 2
+          FYV9055   Macbeth
+          QRH6838   Las cronicas de Narnia
+5       66747161      Vasquez Paz Alex Martin                 Cantidad Libros Pedidos: 3
+          KGO1734   Una historia del mundo
+          EEJ4830   El Principito
+          WYE2119   El asedio
+94      14268463      Diaz Correa Irma Virginia               Cantidad Libros Pedidos: 2
+          FYV9055   Macbeth
+          VFI8064   A sangre fria
+154     45834351      Santisteban Meza Rosa                   Cantidad Libros Pedidos: 3
+          VFZ9435   El olor de la Edad Media
+          BZY0235   Fausto
+          TVR7016   El corazon de las tinieblas
+42      17750908      Chumpitaz Iberos Ronal                  Cantidad Libros Pedidos: 4
+          QBL9575   Los miserables
+          DDQ0721   En busca del tiempo perdido
+          CKC4095   El Gran Gatsby
+          XJT3661   Las aventuras de Tom Sawye
+16      42302422      Maldonado Ramirez Silvana               Cantidad Libros Pedidos: 2
+          YZV6954   Corazon de las tinieblas
+          QKH2262   Fiesta
+109     65830353      Caro Polo Sandro                        Cantidad Libros Pedidos: 3
+          TOJ1764   Ensayo sobre la ceguera
+          EDQ0577   Las aventuras de Pinocho
+          BZY0235   Fausto
+135     37751890      Romero Palomares Gloria Tatiana         Cantidad Libros Pedidos: 3
+          HGQ0131   Odisea
+          RLQ7170   El tango de la guardia vieja
+          VMW6915   Travesuras de la ninia mala
+100     21344013      Aquino Toro Valentina Rocio             Cantidad Libros Pedidos: 4
+          PCS8992   Y no quedo ninguno
+          UXZ2187   Los 7 habitos de la gente altamente efectiva
+          BXE0974   Los viajes de Gulliver
+          JEN0751   Ana Karenina
+111     96056368      Raffo Chung Adria Gloria                Cantidad Libros Pedidos: 3
+          GOG7446   El guardian entre el centeno
+          JXK3142   En el camino
+          HHR5161   El francotirador paciente
+103     86898639      Pasquel Quio Surami Janet               Cantidad Libros Pedidos: 3
+          DEK2757   En llamas
+          FMX8255   Las aventuras de Huckleberry Finn
+          CJN4376   Harry Potter y la camara secreta (Harry Potter 2)
+102     33958767      Perez Farfan Richard Sandro             Cantidad Libros Pedidos: 2
+          CRY6839   Ricardo III
+          RZX8790   El senior de las moscas
+168     67066631      Arca Amezquita Edric Ronald             Cantidad Libros Pedidos: 4
+          JZC7527   El tambor de hojalata
+          CST1133   Inferno
+          KSX7995   El simbolo perdidoi
+          DVR5984   Mil soles esplendidos
+31      20449598      Velasquez Huayanay Edgard Henry         Cantidad Libros Pedidos: 3
+          NEW1762   Territorio comanche
+          WMN3648   Pasaje a la India
+          MLC7198   Los rios profundos
+58      15129661      Valverde Flores Irma Ydali              Cantidad Libros Pedidos: 1
+          JSM8271   La Odisea
+171     69200503      Norabuena Preciado Cinthia              Cantidad Libros Pedidos: 3
+          JXK3142   En el camino
+          IIM5175   Diamantes y pedernales
+          ZQY9966   El suenio del tio
+147     47659552      Prado Vergel Carlos Julian              Cantidad Libros Pedidos: 2
+          YJI3961   Cien anios de soledad
+          NBL8415   Espania con honra
+56      21344013      Aquino Toro Valentina Rocio             Cantidad Libros Pedidos: 4
+          ZQD4253   Harry Potter y el misterio del principe ( Harry Potter 6)
+          USM9579   El perfume
+          CKR6798   El lobo estepario
+          IMC3155   Los pilares de la tierra
+17      92240876      Mejia Diaz Blanca Milagros              Cantidad Libros Pedidos: 4
+          SMI7078   Los cachorros
+          RZX8790   El senior de las moscas
+          EWI3090   La seniora Dalloway
+          OCI8959   David Copperfield
+62      87804471      Diaz Antezano Magali Silvana            Cantidad Libros Pedidos: 2
+          JXK3142   En el camino
+          ZPD6557   El ruido y la furia
+28      45002711      Landeo Sueldo Adolfo                    Cantidad Libros Pedidos: 3
+          DPZ8059   El hombre que pudo reinar
+          AKU9740   Conversacion en La Catedral
+          KWL0415   1923
+32      33958767      Perez Farfan Richard Sandro             Cantidad Libros Pedidos: 3
+          LRV5687   La guerra del fin del mundo
+          XIU6076   Rebelion en la granja
+          JZC7527   El tambor de hojalata
+97      11750801      Raffo Arias Surami Annie                Cantidad Libros Pedidos: 1
+          WYE2119   El asedio
+71      72832218      Vega Garcia Janet Rebeca                Cantidad Libros Pedidos: 2
+          SQB7146   Cronica de una muerte anunciada
+          IMK4892   La tabla de Flandes
+66      15129661      Valverde Flores Irma Ydali              Cantidad Libros Pedidos: 4
+          WOF6634   El problema final
+          RAO4129   Stalingrado
+          QCA9584   Dr. Jekyll y Mr. Hyde
+          FMX8255   Las aventuras de Huckleberry Finn
+90      14268463      Diaz Correa Irma Virginia               Cantidad Libros Pedidos: 4
+          BZY0235   Fausto
+          PQZ1316   La Eneida
+          IFL0150   Romeo y Julieta
+          JNC0786   Mi isla
+162     69200503      Norabuena Preciado Cinthia              Cantidad Libros Pedidos: 1
+          GKG6581   Hombres buenos
+1       20610190      Auris Zimic Javier Daniel               Cantidad Libros Pedidos: 1
+          JZC7527   El tambor de hojalata
+46      87804471      Diaz Antezano Magali Silvana            Cantidad Libros Pedidos: 2
+          ELC8965   Las aventuras de Rocambole
+          ZOY6470   El viejo y el mar
+24      81082011      Shirakawa Ortega Angel                  Cantidad Libros Pedidos: 4
+          JXK3142   En el camino
+          CXW5879   Los barcos se pierden en tierra
+          KBF4088   Harry Potter y el prisionero de Azkaban (Harry Potter 3)
+          CRR5443   Un mundo feliz
+142     35030611      Cabrera Luna Shirley Isabel             Cantidad Libros Pedidos: 1
+          HRT0664   Los funerales de la Mama Grande
+116     61212473      Forzani Caro Alonso                     Cantidad Libros Pedidos: 1
+          JGG5049   El eterno marido
+98      88080249      Coronel Chumpitaz Heli                  Cantidad Libros Pedidos: 4
+          NEO9165   Emperador de Roma
+          PZP7176   La caida de los gigantes
+          MEH2993   Hijos de un tiempo perdido
+          MBB0685   El capitan Alatriste
+114     85870289      Paredes Patino Christian                Cantidad Libros Pedidos: 1
+          HPP3360   El pintor de batallas
+169     83265244      Wong Martel Madeleine                   Cantidad Libros Pedidos: 4
+          JZU0977   El alquimista
+          PQB0775   El diablo de la botella y otros cuentos
+          WWT1581   La piel del tambor
+          EJE8138   Yawar fiesta
+37      34460612      Morales Valverde Ines Martha            Cantidad Libros Pedidos: 2
+          SFR1226   Ana la de las tejas verdes
+          GUN8655   Angeles y demoniosi
+2       81462164      Fernandez Ortega Elizabeth Elizabeth    Cantidad Libros Pedidos: 2
+          EZP0333   La Reina del Sur
+          CLG5566   Pantaleon y las visitadoras
+70      27109544      Henriquez Espino Beatriz                Cantidad Libros Pedidos: 3
+          FNM6936   Divina comedia
+          ECT0289   Juego de tronos
+          WWT1581   La piel del tambor
+152     69200503      Norabuena Preciado Cinthia              Cantidad Libros Pedidos: 2
+          WYE2119   El asedio
+          UXZ2187   Los 7 habitos de la gente altamente efectiva
+146     65830353      Caro Polo Sandro                        Cantidad Libros Pedidos: 4
+          GWE4133   El gato negro y otros cuentos
+          BDK4183   La isla del tesoro
+          VSG3432   Bajo bandera negra
+          HPP3360   El pintor de batallas
+81      37751890      Romero Palomares Gloria Tatiana         Cantidad Libros Pedidos: 3
+          CRY6839   Ricardo III
+          WGA2754   El club Dumas
+          FNM6936   Divina comedia
+105     87804471      Diaz Antezano Magali Silvana            Cantidad Libros Pedidos: 3
+          RNG2321   El Aleph
+          ICU6090   La fiesta del chivo
+          CXW5879   Los barcos se pierden en tierra
+73      81462164      Fernandez Ortega Elizabeth Elizabeth    Cantidad Libros Pedidos: 1
+          CMP1150   Don Quijote de la Mancha
+51      14500753      Delgado Gonzales Guillermo Alfonso      Cantidad Libros Pedidos: 3
+          ALH8812   Guerra y Paz
+          JLQ6546   El retorno del Rey
+          OQK1590   Cometas en el cielo
+7       79743481      Salas Aguero Daniel                     Cantidad Libros Pedidos: 1
+          EJE8138   Yawar fiesta
+21      49516360      Mendoza Egusquiza Rosario               Cantidad Libros Pedidos: 1
+          PQZ1316   La Eneida
+159     65071478      Arroyo Gordillo Maria Heli              Cantidad Libros Pedidos: 2
+          IPE3429   Sidi
+          MWB2923   Mudlarking
+170     11750801      Raffo Arias Surami Annie                Cantidad Libros Pedidos: 1
+          KLV1872   Orgullo y prejuicio
+122     37328103      Palomares Vera Henrry Humberto          Cantidad Libros Pedidos: 2
+          EZP0333   La Reina del Sur
+          YJI3961   Cien anios de soledad
+101     45181396      Cerna Durand Martin                     Cantidad Libros Pedidos: 3
+          SFZ1256   La Iliada
+          BZY0235   Fausto
+          XCC4070   El italiano
+20      21344013      Aquino Toro Valentina Rocio             Cantidad Libros Pedidos: 4
+          QQQ4712   Nuestra Seniora de Paris
+          IMK4892   La tabla de Flandes
+          PQZ1316   La Eneida
+          VFZ9435   El olor de la Edad Media
+124     66747161      Vasquez Paz Alex Martin                 Cantidad Libros Pedidos: 2
+          RII8346   Las dos Dianas
+          CRR5443   Un mundo feliz
+130     35030611      Cabrera Luna Shirley Isabel             Cantidad Libros Pedidos: 2
+          ZLE2920   Historia de la Edad Media
+          BUT4998   Lolita
+67      37751890      Romero Palomares Gloria Tatiana         Cantidad Libros Pedidos: 4
+          JBR9372   El maestro de esgrima
+          FWP8469   Justine o los infortunios
+          WPU8819   Tristam Shandy
+          CKC4095   El Gran Gatsby
+120     65830353      Caro Polo Sandro                        Cantidad Libros Pedidos: 4
+          XIU2628   Cabo Trafalgar
+          JSM8271   La Odisea
+          GDA4236   Gente normal
+          SMW0186   La sombra del viento
+139     46582367      Justino Forzani Ericka Victoria         Cantidad Libros Pedidos: 2
+          EBT7258   Linea de fuego
+          QYH7021   Historia del siglo XX: 1914-1991
+157     92240876      Mejia Diaz Blanca Milagros              Cantidad Libros Pedidos: 3
+          KWL0415   1923
+          VMW6915   Travesuras de la ninia mala
+          PPI9259   Revolucion
+165     83265244      Wong Martel Madeleine                   Cantidad Libros Pedidos: 2
+          BXE0974   Los viajes de Gulliver
+          ALH8812   Guerra y Paz
+61      63602514      Shirakawa Miranda Madeleine             Cantidad Libros Pedidos: 3
+          KPE7420   Jane Eyre
+          DVR5984   Mil soles esplendidos
+          QKH2262   Fiesta
+76      47659552      Prado Vergel Carlos Julian              Cantidad Libros Pedidos: 1
+          NGQ6935   La casa de los espiritus
+23      60740809      Lozada Yino Martha                      Cantidad Libros Pedidos: 3
+          DDU0764   Dioses tumbas y sabios
+          PPI9259   Revolucion
+          IFL0150   Romeo y Julieta
+41      57431952      Castro Suarez Rolando                   Cantidad Libros Pedidos: 3
+          DVL7760   Falco
+          USE5598   Fortaleza digitali
+          TBZ2657   Olalla
+113     58717040      Cabrera Canales Guillermo Edric         Cantidad Libros Pedidos: 1
+          FBO8724   El pendulo de Foucault
+47      54393647      Reyes Tang Edward                       Cantidad Libros Pedidos: 3
+          BSX2922   Una historia de Espania
+          IBP7411   Nunca
+          OWU1533   Cuatro principes
+12      87804471      Diaz Antezano Magali Silvana            Cantidad Libros Pedidos: 2
+          VPN5351   El Amante
+          EEJ4830   El Principito
+110     14268463      Diaz Correa Irma Virginia               Cantidad Libros Pedidos: 4
+          IFL0150   Romeo y Julieta
+          VMW6915   Travesuras de la ninia mala
+          EHX6253   La isla de las tormentas
+          XBC5847   Tiempos recios
+33      88080249      Coronel Chumpitaz Heli                  Cantidad Libros Pedidos: 3
+          SQB7146   Cronica de una muerte anunciada
+          NFP3266   Sabotaje
+          TAB4639   El color que cayo del cielo
+79      81082011      Shirakawa Ortega Angel                  Cantidad Libros Pedidos: 1
+          QRH6838   Las cronicas de Narnia
+13      37751890      Romero Palomares Gloria Tatiana         Cantidad Libros Pedidos: 2
+          BTX3816   El jugador
+          NEW1762   Territorio comanche
+153     37751890      Romero Palomares Gloria Tatiana         Cantidad Libros Pedidos: 3
+          HPM0950   Fahrenheit 451
+          NBL8415   Espania con honra
+          QVX9089   Madame Bovary
+30      14268463      Diaz Correa Irma Virginia               Cantidad Libros Pedidos: 1
+          ETZ8565   Confesiones de una mascara
+8       33583840      Villa Yallico Tatiana Nancy             Cantidad Libros Pedidos: 3
+          RWW7975   El nombre de la rosa
+          RLQ7170   El tango de la guardia vieja
+          RSK1164   El amor en los tiempos del colera
+54      81462164      Fernandez Ortega Elizabeth Elizabeth    Cantidad Libros Pedidos: 4
+          ULM8751   La sumisa
+          TBZ2657   Olalla
+          TOJ1764   Ensayo sobre la ceguera
+          EBT7258   Linea de fuego
+43      34460612      Morales Valverde Ines Martha            Cantidad Libros Pedidos: 2
+          CKC4095   El Gran Gatsby
+          ZLE2920   Historia de la Edad Media
+89      42302422      Maldonado Ramirez Silvana               Cantidad Libros Pedidos: 4
+          TAB4639   El color que cayo del cielo
+          RWW7975   El nombre de la rosa
+          ZOY6470   El viejo y el mar
+          KTA8754   Ulises
+137     45181396      Cerna Durand Martin                     Cantidad Libros Pedidos: 2
+          KLO8691   Catedral
+          UCJ9882   El reino de este mundo
+82      57431952      Castro Suarez Rolando                   Cantidad Libros Pedidos: 2
+          VSG3432   Bajo bandera negra
+          JGG5049   El eterno marido
+4       57431952      Castro Suarez Rolando                   Cantidad Libros Pedidos: 4
+          JZQ8143   Suenios de robot
+          QHZ8547   Adios a las armas
+          UCA0857   SPQR: una historia de la antigua Roma
+          BTX3816   El jugador
+160     49516360      Mendoza Egusquiza Rosario               Cantidad Libros Pedidos: 3
+          NBL8415   Espania con honra
+          LQA8555   Rimas y leyendas
+          VFZ9435   El olor de la Edad Media
+86      37328103      Palomares Vera Henrry Humberto          Cantidad Libros Pedidos: 2
+          MBQ9495   Tormenta de espadas
+          JXK3142   En el camino
+87      72832218      Vega Garcia Janet Rebeca                Cantidad Libros Pedidos: 3
+          KWL0415   1923
+          BDK4183   La isla del tesoro
+          JSM8271   La Odisea
+22      83265244      Wong Martel Madeleine                   Cantidad Libros Pedidos: 4
+          PZP7176   La caida de los gigantes
+          HVZ1228   El húsar
+          RSK1164   El amor en los tiempos del colera
+          LJE6687   El codigo Da Vinci
+74      58717040      Cabrera Canales Guillermo Edric         Cantidad Libros Pedidos: 3
+          YZV6954   Corazon de las tinieblas
+          BZY0235   Fausto
+          RNG2321   El Aleph
+50      37751890      Romero Palomares Gloria Tatiana         Cantidad Libros Pedidos: 1
+          HPM0950   Fahrenheit 451
+112     57431952      Castro Suarez Rolando                   Cantidad Libros Pedidos: 4
+          CRR5443   Un mundo feliz
+          DEK2757   En llamas
+          MBQ9495   Tormenta de espadas
+          PHL4155   El idiota
+44      42302422      Maldonado Ramirez Silvana               Cantidad Libros Pedidos: 4
+          QBL9575   Los miserables
+          WHU1288   La hija italiana
+          RZX8790   El senior de las moscas
+          JZQ8143   Suenios de robot
+166     17750908      Chumpitaz Iberos Ronal                  Cantidad Libros Pedidos: 3
+          IUG2294   El proceso
+          XIU2628   Cabo Trafalgar
+          PQB0775   El diablo de la botella y otros cuentos
+149     81462164      Fernandez Ortega Elizabeth Elizabeth    Cantidad Libros Pedidos: 1
+          KVL6246   La edad media - barbaros - cristianos y musulmanes
+163     65071478      Arroyo Gordillo Maria Heli              Cantidad Libros Pedidos: 2
+          WOF6634   El problema final
+          WPU8819   Tristam Shandy
+134     47659552      Prado Vergel Carlos Julian              Cantidad Libros Pedidos: 3
+          HPP3360   El pintor de batallas
+          KVL6246   La edad media - barbaros - cristianos y musulmanes
+          OCI8959   David Copperfield
+95      38724322      Inga Flores Cesar Adolfo                Cantidad Libros Pedidos: 4
+          WCZ0845   El cementerio de Praga
+          CKC4095   El Gran Gatsby
+          ZYF6683   Harry Potter y la Orden del Fenix ( Harry Potter 5)
+          TMR5068   Los tres mosqueteros
+57      50860318      Salazar Corrales Lorena Irma            Cantidad Libros Pedidos: 1
+          UDS2730   Los Nibelungos
+93      76693511      Laura Wong Melvin Henrry                Cantidad Libros Pedidos: 3
+          BUY4915   La sombra del aguila
+          HGN9910   La ciudad y los perros
+          UDS2730   Los Nibelungos
+123     14500753      Delgado Gonzales Guillermo Alfonso      Cantidad Libros Pedidos: 4
+          JLQ6546   El retorno del Rey
+          BUC5125   El faro de Stalingrado
+          PQZ1316   La Eneida
+          ILA4795   La ladrona de libros
+150     37328103      Palomares Vera Henrry Humberto          Cantidad Libros Pedidos: 4
+          CST1133   Inferno
+          LJD9991   Baudolino
+          OBH4691   Crimen y castigo
+          KTA8754   Ulises
+19      49516360      Mendoza Egusquiza Rosario               Cantidad Libros Pedidos: 3
+          EBT7258   Linea de fuego
+          YKQ9278   Alicia en el pais de las maravillas
+          WCZ0845   El cementerio de Praga
+164     17750908      Chumpitaz Iberos Ronal                  Cantidad Libros Pedidos: 3
+          USE5598   Fortaleza digitali
+          ZYF6683   Harry Potter y la Orden del Fenix ( Harry Potter 5)
+          RYI5447   El corazon es un cazador solitario
+72      14500753      Delgado Gonzales Guillermo Alfonso      Cantidad Libros Pedidos: 1
+          LDL2628   Harry Potter y el caliz de fuego (Harry Potter 4)
+104     92240876      Mejia Diaz Blanca Milagros              Cantidad Libros Pedidos: 3
+          QCA9584   Dr. Jekyll y Mr. Hyde
+          VSG3432   Bajo bandera negra
+          MNL3677   El Hobbit
+141     85870289      Paredes Patino Christian                Cantidad Libros Pedidos: 2
+          SFZ1256   La Iliada
+          FWK6327   El doble
+125     51235238      Prado Falcon Edgar Richard              Cantidad Libros Pedidos: 3
+          JZQ8143   Suenios de robot
+          UXZ2187   Los 7 habitos de la gente altamente efectiva
+          VFZ9435   El olor de la Edad Media
+68      81082011      Shirakawa Ortega Angel                  Cantidad Libros Pedidos: 3
+          HPP3360   El pintor de batallas
+          UQL8643   Dracula
+          CRY6839   Ricardo III
+34      11750801      Raffo Arias Surami Annie                Cantidad Libros Pedidos: 4
+          GQC1814   Apocalipticos e integrados
+          ZQY9966   El suenio del tio
+          VOI0019   El evangelio según Jesucristo
+          MVU0233   La conspiracioni
+145     48053960      Corrales Tsukazan Irma Lourdes          Cantidad Libros Pedidos: 3
+          VFZ9435   El olor de la Edad Media
+          SQB7146   Cronica de una muerte anunciada
+          YZV6954   Corazon de las tinieblas
+55      14268463      Diaz Correa Irma Virginia               Cantidad Libros Pedidos: 3
+          BHD6079   Zorba el griego
+          JLQ6546   El retorno del Rey
+          AGQ7769   La Flecha Negra
+91      60740809      Lozada Yino Martha                      Cantidad Libros Pedidos: 3
+          CRY6839   Ricardo III
+          VYG3594   Los demonios
+          KGO1734   Una historia del mundo
+88      57431952      Castro Suarez Rolando                   Cantidad Libros Pedidos: 2
+          WPU8819   Tristam Shandy
+          CTW5846   El medievo cristiano
+158     58717040      Cabrera Canales Guillermo Edric         Cantidad Libros Pedidos: 2
+          PQZ1316   La Eneida
+          XCC4070   El italiano
+126     54393647      Reyes Tang Edward                       Cantidad Libros Pedidos: 2
+          IIM5175   Diamantes y pedernales
+          MBQ9495   Tormenta de espadas
+127     87804471      Diaz Antezano Magali Silvana            Cantidad Libros Pedidos: 2
+          KWL0415   1923
+          IMK4892   La tabla de Flandes
+60      14268463      Diaz Correa Irma Virginia               Cantidad Libros Pedidos: 4
+          CPE5718   Paris era una fiesta
+          KGO1734   Una historia del mundo
+          IUG2294   El proceso
+          ILG7766   Iliada
+108     88080249      Coronel Chumpitaz Heli                  Cantidad Libros Pedidos: 2
+          SMW0186   La sombra del viento
+          SBU9053   Tierra arrasada
+156     81082011      Shirakawa Ortega Angel                  Cantidad Libros Pedidos: 2
+          ZAL2738   1984
+          VDL9379   Los juegos del hambre
+65      37751890      Romero Palomares Gloria Tatiana         Cantidad Libros Pedidos: 3
+          XTM9385   El mundo
+          VSG3432   Bajo bandera negra
+          CTW5846   El medievo cristiano
+69      37751890      Romero Palomares Gloria Tatiana         Cantidad Libros Pedidos: 3
+          HWM4049   Romper el circulo
+          MNL3677   El Hobbit
+          VMW6915   Travesuras de la ninia mala
+18      14268463      Diaz Correa Irma Virginia               Cantidad Libros Pedidos: 4
+          QMI4747   La isla de los amores infinitos
+          IUI3314   El coronel no tiene quien le escriba
+          NFP3266   Sabotaje
+          QRH6838   Las cronicas de Narnia
+99      33583840      Villa Yallico Tatiana Nancy             Cantidad Libros Pedidos: 2
+          DVL7760   Falco
+          UEJ1235   Grandes esperanzas
+53      81462164      Fernandez Ortega Elizabeth Elizabeth    Cantidad Libros Pedidos: 2
+          UCJ9882   El reino de este mundo
+          SPM4763   Eva
+75      34460612      Morales Valverde Ines Martha            Cantidad Libros Pedidos: 4
+          KSX7995   El simbolo perdidoi
+          WPU8819   Tristam Shandy
+          JJV7549   Los hombres que no amaban a las mujeres
+          JBR9372   El maestro de esgrima
+77      42302422      Maldonado Ramirez Silvana               Cantidad Libros Pedidos: 4
+          WWT1581   La piel del tambor
+          OBD2849   El invierno del mundo
+          CMP1150   Don Quijote de la Mancha
+          HSE3213   Por quien doblan las campanas
+83      45181396      Cerna Durand Martin                     Cantidad Libros Pedidos: 1
+          RWW7975   El nombre de la rosa
+119     57431952      Castro Suarez Rolando                   Cantidad Libros Pedidos: 3
+          RSK1164   El amor en los tiempos del colera
+          HGN9910   La ciudad y los perros
+          HWM4049   Romper el circulo
+38      57431952      Castro Suarez Rolando                   Cantidad Libros Pedidos: 4
+          KGO1734   Una historia del mundo
+          CRY6839   Ricardo III
+          HCT8192   Diario
+          VDL9379   Los juegos del hambre
+6       49516360      Mendoza Egusquiza Rosario               Cantidad Libros Pedidos: 2
+          DDQ0721   En busca del tiempo perdido
+          RWW7975   El nombre de la rosa
+161     37328103      Palomares Vera Henrry Humberto          Cantidad Libros Pedidos: 2
+          XIU2628   Cabo Trafalgar
+          UEJ1235   Grandes esperanzas
+121     72832218      Vega Garcia Janet Rebeca                Cantidad Libros Pedidos: 2
+          XIU6076   Rebelion en la granja
+          VFI8064   A sangre fria
+14      83265244      Wong Martel Madeleine                   Cantidad Libros Pedidos: 2
+          BTX3816   El jugador
+          DEK2757   En llamas
+129     58717040      Cabrera Canales Guillermo Edric         Cantidad Libros Pedidos: 2
+          FYV9055   Macbeth
+          QRH6838   Las cronicas de Narnia
+117     37751890      Romero Palomares Gloria Tatiana         Cantidad Libros Pedidos: 3
+          KGO1734   Una historia del mundo
+          EEJ4830   El Principito
+          WYE2119   El asedio
+25      57431952      Castro Suarez Rolando                   Cantidad Libros Pedidos: 2
+          FYV9055   Macbeth
+          VFI8064   A sangre fria
+15      42302422      Maldonado Ramirez Silvana               Cantidad Libros Pedidos: 3
+          VFZ9435   El olor de la Edad Media
+          BZY0235   Fausto
+          TVR7016   El corazon de las tinieblas
+26      17750908      Chumpitaz Iberos Ronal                  Cantidad Libros Pedidos: 4
+          QBL9575   Los miserables
+          DDQ0721   En busca del tiempo perdido
+          CKC4095   El Gran Gatsby
+          XJT3661   Las aventuras de Tom Sawye
+78      81462164      Fernandez Ortega Elizabeth Elizabeth    Cantidad Libros Pedidos: 2
+          YZV6954   Corazon de las tinieblas
+          QKH2262   Fiesta
+133     65071478      Arroyo Gordillo Maria Heli              Cantidad Libros Pedidos: 3
+          TOJ1764   Ensayo sobre la ceguera
+          EDQ0577   Las aventuras de Pinocho
+          BZY0235   Fausto
+138     47659552      Prado Vergel Carlos Julian              Cantidad Libros Pedidos: 3
+          HGQ0131   Odisea
+          RLQ7170   El tango de la guardia vieja
+          VMW6915   Travesuras de la ninia mala
+106     38724322      Inga Flores Cesar Adolfo                Cantidad Libros Pedidos: 4
+          PCS8992   Y no quedo ninguno
+          UXZ2187   Los 7 habitos de la gente altamente efectiva
+          BXE0974   Los viajes de Gulliver
+          JEN0751   Ana Karenina
+128     50860318      Salazar Corrales Lorena Irma            Cantidad Libros Pedidos: 3
+          GOG7446   El guardian entre el centeno
+          JXK3142   En el camino
+          HHR5161   El francotirador paciente
+118     76693511      Laura Wong Melvin Henrry                Cantidad Libros Pedidos: 3
+          DEK2757   En llamas
+          FMX8255   Las aventuras de Huckleberry Finn
+          CJN4376   Harry Potter y la camara secreta (Harry Potter 2)
+148     14500753      Delgado Gonzales Guillermo Alfonso      Cantidad Libros Pedidos: 2
+          CRY6839   Ricardo III
+          RZX8790   El senior de las moscas
+172     37328103      Palomares Vera Henrry Humberto          Cantidad Libros Pedidos: 4
+          JZC7527   El tambor de hojalata
+          CST1133   Inferno
+          KSX7995   El simbolo perdidoi
+          DVR5984   Mil soles esplendidos
+29      49516360      Mendoza Egusquiza Rosario               Cantidad Libros Pedidos: 3
+          NEW1762   Territorio comanche
+          WMN3648   Pasaje a la India
+          MLC7198   Los rios profundos
+107     17750908      Chumpitaz Iberos Ronal                  Cantidad Libros Pedidos: 1
+          MLC7198   Los rios profundos
+11      14500753      Delgado Gonzales Guillermo Alfonso      Cantidad Libros Pedidos: 3
+          JXK3142   En el camino
+          IIM5175   Diamantes y pedernales
+          ZQY9966   El suenio del tio
+45      92240876      Mejia Diaz Blanca Milagros              Cantidad Libros Pedidos: 2
+          YJI3961   Cien anios de soledad
+          NBL8415   Espania con honra
+64      85870289      Paredes Patino Christian                Cantidad Libros Pedidos: 4
+          ZQD4253   Harry Potter y el misterio del principe ( Harry Potter 6)
+          USM9579   El perfume
+          CKR6798   El lobo estepario
+          IMC3155   Los pilares de la tierra
+36      51235238      Prado Falcon Edgar Richard              Cantidad Libros Pedidos: 4
+          SMI7078   Los cachorros
+          RZX8790   El senior de las moscas
+          EWI3090   La seniora Dalloway
+          OCI8959   David Copperfield
+39      81082011      Shirakawa Ortega Angel                  Cantidad Libros Pedidos: 2
+          JXK3142   En el camino
+          ZPD6557   El ruido y la furia
+49      11750801      Raffo Arias Surami Annie                Cantidad Libros Pedidos: 3
+          DPZ8059   El hombre que pudo reinar
+          AKU9740   Conversacion en La Catedral
+          KWL0415   1923
+85      48053960      Corrales Tsukazan Irma Lourdes          Cantidad Libros Pedidos: 3
+          LRV5687   La guerra del fin del mundo
+          XIU6076   Rebelion en la granja
+          JZC7527   El tambor de hojalata
+52      14268463      Diaz Correa Irma Virginia               Cantidad Libros Pedidos: 1
+          WYE2119   El asedio

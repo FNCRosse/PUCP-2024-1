@@ -1,0 +1,34 @@
+ESTANTERIAS DEL COLEGIO
+El RUC del Colegio: 207            Cantidad de Libros: 2
+Codigo Estante: AAA            
+Anchura del estante: 6     Altura del Estante: 4
+------------------------------------------------------------------------------------------------------------------------
+[ ][*][ ][ ][ ][ ]
+[*][*][ ][ ][ ][ ]
+[*][*][ ][ ][ ][ ]
+[*][*][ ][ ][ ][ ]
+
+Codigo    Nombre                       Ancho   Alto      Materia
+ABC123     El libro de la Selva         1         3         Matematicas
+CBA123     El libro de la Sierra        1         4         Fisica
+
+
+
+ESTANTERIAS DE PSICOLOGIA
+El Codigo del Psicologo: 10038Cantidad de Libros: 2
+Codigo Estante: BBB            
+Anchura del estante: 10    Altura del Estante: 8
+------------------------------------------------------------------------------------------------------------------------
+[ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][ ][ ][ ][ ][ ][ ][ ][ ]
+[ ][ ][*][*][*][ ][ ][ ][ ][ ]
+[ ][ ][*][*][*][ ][ ][ ][ ][ ]
+[ ][ ][*][*][*][ ][ ][ ][ ][ ]
+[*][*][*][*][*][ ][ ][ ][ ][ ]
+[*][*][*][*][*][ ][ ][ ][ ][ ]
+
+Codigo    Nombre                       Ancho   Alto      Ranking
+ABC321     El libro de la Costa         2         2         25
+CCC123     El libro perdido             3         5         64
+

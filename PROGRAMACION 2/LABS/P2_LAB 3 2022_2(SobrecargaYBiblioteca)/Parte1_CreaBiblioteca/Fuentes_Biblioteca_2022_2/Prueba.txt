@@ -1,0 +1,31 @@
+  DNI              NOMBRE                      TELEFONO
+43704548       Vizcardo/Maribel              960851431
+RELACION DE CITAS
+No.  FECHA   CODIGO DEL MEDICO      ESPECIALISTA    TARIFA
+1)   20220909            892133         GastroenterologiaÇäíþÿÿÿðøb389.91                   
+2)   20220801            147871         Traumatologiaûb298.45                   
+Monto Total Gastado: 688.36
+  DNI              NOMBRE                      TELEFONO
+36471787       Pena/Glenda                   480411757
+RELACION DE CITAS
+No.  FECHA   CODIGO DEL MEDICO      ESPECIALISTA    TARIFA
+1)   20230116            600493         Gastroenterologia780.49                   
+2)   20230403            909077         Dermatologia¸p€470.72                   
+Monto Total Gastado: 1251.21
+  DNI              NOMBRE                      TELEFONO
+71422479       Lozada/Felicita               680516877
+RELACION DE CITAS
+No.  FECHA   CODIGO DEL MEDICO      ESPECIALISTA    TARIFA
+Monto Total Gastado: 0.00
+  DNI              NOMBRE                      TELEFONO
+51465986       Sam/Ines                      676247212
+RELACION DE CITAS
+No.  FECHA   CODIGO DEL MEDICO      ESPECIALISTA    TARIFA
+Monto Total Gastado: 0.00
+  DNI              NOMBRE                      TELEFONO
+20371464       Lozada/Heli                   915825030
+RELACION DE CITAS
+No.  FECHA   CODIGO DEL MEDICO      ESPECIALISTA    TARIFA
+1)   20220828            147871         Traumatologiaûb298.45                   
+2)   20230330            892133         GastroenterologiaÇäíþÿÿÿðøb389.91                   
+Monto Total Gastado: 688.36

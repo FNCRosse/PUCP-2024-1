@@ -1,0 +1,10 @@
+98, Senna, 78
+14, Seraphine, 75
+18, Tristana, 80
+18, Tristana, 80
+19, Warwick, 82
+498, Wukong, 88
+101, Xayah, 85
+101, Xayah, 85
+5, Xerath, 82
+157, Xin Zhao, 78

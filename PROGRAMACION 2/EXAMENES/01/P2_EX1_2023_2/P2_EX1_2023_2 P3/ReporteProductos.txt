@@ -1,0 +1,334 @@
+ADX-669   Refrigeradora cap. 220 litros                                    
+Precio: 1239.38        Stock:15
+AFL-718   Vinera                                                           
+Precio: 1664.97        Stock:17
+AHB-459   Reproductor DVD Portatil TV 7                                    
+Precio: 685.50         Stock:9
+AQS-362   Teclado Inalambrico USB                                          
+Precio: 233.05         Stock:7
+ARS-231   Audifonos Stereos                                                
+Precio: 327.62         Stock:13
+AVM-258   Cocina a gas Toscana                                             
+Precio: 2831.23        Stock:20
+AWB-345   Deshumedecedor DM-189H                                           
+Precio: 800.37         Stock:6
+AWT-354   Galaxy Gear                                                      
+Precio: 3409.22        Stock:22
+BCK-361   Tablets 10.1                                                     
+Precio: 1872.53        Stock:9
+BCN-855   Cocina a gas Bahia Can                                           
+Precio: 4015.92        Stock:14
+BIT-434   Campana Extractora modelo Glass                                  
+Precio: 375.09         Stock:10
+BMJ-772   Refrigeradora Side by Side                                       
+Precio: 936.32         Stock:13
+BRD-969   Centro de Lavado Electrico                                       
+Precio: 2579.72        Stock:18
+BTO-226   Friobar                                                          
+Precio: 863.19         Stock:25
+BWD-036   Cocina Empotrable Klimatica                                      
+Precio: 1086.34        Stock:5
+BXY-119   Cocina Empotrable Klimatica                                      
+Precio: 2716.11        Stock:12
+BZS-261   Cocina a gas Trento                                              
+Precio: 3087.87        Stock:8
+CIM-038   Cocina Empotrable Petra                                          
+Precio: 2544.64        Stock:16
+CJE-310   Mini componente GPX33                                            
+Precio: 3643.39        Stock:16
+CNN-411   Congeladora Side by Side                                         
+Precio: 2296.29        Stock:24
+CNQ-172   Congeladora Horizontal 364 Lts.                                  
+Precio: 3689.62        Stock:15
+CRU-009   Lavavajilla                                                      
+Precio: 2655.78        Stock:5
+CSZ-863   Video Filmadora                                                  
+Precio: 1713.57        Stock:17
+DEN-125   Rack Fijo 26/32                                                  
+Precio: 562.46         Stock:25
+DEV-433   Parlantes portatiles SHOQBOX                                     
+Precio: 2698.74        Stock:13
+DFF-034   Grabadora de voz digital portátil con USB integrado              
+Precio: 259.25         Stock:24
+DFJ-952   Cocina a gas Prestige 60 INOX                                    
+Precio: 3342.77        Stock:18
+DIQ-718   Horno Microondas de Conveccion Cello                             
+Precio: 390.80         Stock:3
+DON-719   Secadora de Cabello SG-3035                                      
+Precio: 360.69         Stock:12
+DOV-560   Impresora Laser Mutifuncion Monocromatica                        
+Precio: 1203.14        Stock:3
+DUG-251   Cocina a gas FFG3047SL                                           
+Precio: 1597.96        Stock:7
+EBI-299   Cocina a gas Fridare                                             
+Precio: 2287.57        Stock:15
+EJW-346   Campana Extractora                                               
+Precio: 359.70         Stock:11
+EQY-018   Radio AM/FM stereo RMU-51C                                       
+Precio: 301.73         Stock:7
+EUZ-452   Impresora Mutifuncional Led Color                                
+Precio: 3623.88        Stock:11
+EVN-510   Cocina a gas FFG3011LB                                           
+Precio: 2672.30        Stock:15
+FCN-617   Televisor Plasma 60                                              
+Precio: 4121.05        Stock:6
+FEG-454   Sillon masajeador                                                
+Precio: 1695.70        Stock:8
+FLJ-040   Parlantes portatiles SOUNDSHOOTER                                
+Precio: 3703.37        Stock:19
+FLW-631   Radio Reloj Despertador                                          
+Precio: 819.04         Stock:7
+FQG-293   Rapiducha Premiun                                                
+Precio: 2784.31        Stock:23
+FVB-607   Cocina a gas Essenza BL                                          
+Precio: 2953.07        Stock:13
+FVQ-662   Cocina a gas Pro 6300 INOX                                       
+Precio: 1060.68        Stock:13
+FYF-898   Proyector a color                                                
+Precio: 1160.46        Stock:15
+GBD-525   Refrigeradora Puertas Mágicas                                    
+Precio: 2700.95        Stock:14
+GBJ-693   Radio CD                                                         
+Precio: 314.20         Stock:8
+GKG-558   Horno Microondas MS2042D                                         
+Precio: 1674.24        Stock:23
+GLC-370   Video Proyector Power Lite 95                                    
+Precio: 552.24         Stock:19
+GXF-122   Televisor Ultra HDTV                                             
+Precio: 1110.16        Stock:15
+HFC-845   Televisor Serie LED R555A                                        
+Precio: 3736.75        Stock:22
+HFM-021   Horno Electrico                                                  
+Precio: 726.91         Stock:26
+HLR-109   Parlantes inalambricos                                           
+Precio: 439.47         Stock:25
+HTY-123   Refrigeradora GM-S604ULV                                         
+Precio: 1173.33        Stock:1
+ICX-503   Cocina a gas Roma                                                
+Precio: 1221.02        Stock:15
+IDO-503   Laptop GamerVictus de 15.6                                       
+Precio: 3935.17        Stock:23
+IHG-413   Parlant Y pedestal PAM-83                                        
+Precio: 317.70         Stock:13
+III-576   Campana Extractora Venus Plus                                    
+Precio: 1077.65        Stock:29
+ISB-205   Camara fotografica 16MP                                          
+Precio: 2976.43        Stock:3
+ISU-815   Audifonos                                                        
+Precio: 619.89         Stock:16
+JCW-489   Conservadora Exibidora CMVE-250                                  
+Precio: 2064.97        Stock:11
+JDC-028   Puntero Laser                                                    
+Precio: 30.48          Stock:19
+JDQ-505   Lavadora Modelo Aquamatic                                        
+Precio: 1572.31        Stock:24
+JFC-432   DVD DVM-L79                                                      
+Precio: 307.67         Stock:24
+JJN-837   Lavadora Tecnologia Wobbie                                       
+Precio: 1979.92        Stock:15
+JXD-139   Terma Evolucion Soltu                                            
+Precio: 586.02         Stock:28
+JYQ-045   Horno Microondas 1.2 p3                                          
+Precio: 267.15         Stock:20
+KBY-991   Home Theater E4100                                               
+Precio: 1101.08        Stock:24
+KCO-488   Ventilador de pared                                              
+Precio: 679.60         Stock:22
+KDA-627   Cocina a gas Ijasmin                                             
+Precio: 1424.46        Stock:7
+KJX-387   Ventilador de techo                                              
+Precio: 613.19         Stock:9
+KQA-580   Cocina Empotrable Glassy Plus                                    
+Precio: 2907.92        Stock:17
+KQQ-136   Impresora Laser EPSON                                            
+Precio: 1139.56        Stock:17
+KSO-608   Secadora Modelo Italica                                          
+Precio: 914.17         Stock:21
+KWP-672   Televisor UHD TV                                                 
+Precio: 1625.30        Stock:24
+LDR-510   Mini componente ESX9                                             
+Precio: 2701.87        Stock:25
+LWG-915   Cocina a gas Murano                                              
+Precio: 1101.47        Stock:15
+LYZ-614   Impresore Mutifuncional Expression XP-211                        
+Precio: 3510.84        Stock:13
+LZK-729   Cocina a gas Kristel                                             
+Precio: 2850.91        Stock:3
+MLE-193   Cocina a gas Ingenious                                           
+Precio: 2779.41        Stock:10
+MMA-577   Congeladora Horizontal 252 Lts.                                  
+Precio: 1780.30        Stock:14
+MQR-442   Reloj Digital RMM-29                                             
+Precio: 271.66         Stock:25
+MTF-868   Impresora Monocromatica WorkForce M205                           
+Precio: 971.59         Stock:12
+MYC-756   Cocina a gas Leganza INOX                                        
+Precio: 1506.80        Stock:21
+NMV-644   Lavadora Automatica                                              
+Precio: 3272.48        Stock:5
+NSM-283   Cocina a gas FFG3053SL                                           
+Precio: 936.81         Stock:13
+NSR-955   Cocina a gas Blogna                                              
+Precio: 2591.44        Stock:14
+OBI-353   Terma Milenium                                                   
+Precio: 2960.56        Stock:16
+OFS-384   Parlantes Bluetooth                                              
+Precio: 805.22         Stock:8
+ONB-903   Reproductor BLU-RAY 3D                                           
+Precio: 653.67         Stock:16
+OPJ-039   Secadora de Ropa                                                 
+Precio: 2765.64        Stock:12
+OPT-996   Mini componente GPX88                                            
+Precio: 1367.48        Stock:14
+OQI-373   Cocina Empotrable Premio Plus                                    
+Precio: 906.16         Stock:20
+OTH-462   Lavadora Semi-Automatica                                         
+Precio: 531.04         Stock:20
+OTS-581   Galaxy Note 8.0                                                  
+Precio: 2653.10        Stock:24
+OTW-288   Cavba de Vinos GE cap. 34 botellas                               
+Precio: 1119.18        Stock:14
+OWN-701   Olla arrocera                                                    
+Precio: 220.82         Stock:21
+OXP-732   Televisor OLED 4K UHD Google TV Smart 77 XR-77A80L LA8           
+Precio: 16504.47       Stock:8
+PFD-286   Refrigeradora cap. 415 litros                                    
+Precio: 2776.02        Stock:8
+PJG-338   Impresora Mutifuncional Inalambricar                             
+Precio: 1067.80        Stock:21
+PPX-620   Aire acondicionado tipo split                                    
+Precio: 2873.42        Stock:8
+PQH-935   Rack Giratorio 26/32                                             
+Precio: 94.45          Stock:12
+PVZ-181   Ventilador circular                                              
+Precio: 309.77         Stock:8
+QFP-254   Calentador electrico instantaneo                                 
+Precio: 180.65         Stock:25
+QFR-958   Cocina a gas Bavaro                                              
+Precio: 1607.46        Stock:6
+QHC-492   Terma Solucion                                                   
+Precio: 1907.23        Stock:17
+QIL-029   Mini componente Shake-5                                          
+Precio: 2990.55        Stock:16
+QJO-060   Televisor LED FULL HD                                            
+Precio: 2704.14        Stock:23
+QQB-968   Refrigeradora 484 litros                                         
+Precio: 1452.92        Stock:9
+QRC-609   Camara de video EOS                                              
+Precio: 1806.66        Stock:17
+QTK-083   Congeladora Conservador Vertical 476 Lts.                        
+Precio: 2682.73        Stock:16
+QUU-384   Lavavajilla Blue Touch                                           
+Precio: 2545.54        Stock:1
+QVJ-982   Horno Microondas 0.7 p3                                          
+Precio: 1352.76        Stock:12
+RAH-420   Cocina a gas Pro 6550 INOX                                       
+Precio: 157.01         Stock:5
+RBE-789   Televisor SMART TV                                               
+Precio: 3303.07        Stock:17
+RDT-761   Horno Microondas con dorador                                     
+Precio: 904.95         Stock:21
+RSE-049   Radio CD/DVD - TV                                                
+Precio: 4037.51        Stock:21
+SAM-013   Cocina a gas FFG3047SL                                           
+Precio: 2275.18        Stock:1
+SJD-818   Refrigeradora  CoolStyle 281A Steel                              
+Precio: 3387.75        Stock:23
+SJQ-827   Reproductor Multimedia Touch Screen                              
+Precio: 1719.56        Stock:21
+SNY-500   Cocina a gas Praga Quarzo                                        
+Precio: 3297.09        Stock:12
+SPR-580   Dispensador de Agua                                              
+Precio: 404.35         Stock:15
+SSD-176   Refrigeradora Linea Gallery                                      
+Precio: 567.71         Stock:23
+SSE-115   Refrigeradora  CoolStyle 311N Steel                              
+Precio: 3243.58        Stock:23
+TKM-141   Cocina a gas Marsella                                            
+Precio: 402.24         Stock:24
+TMJ-043   Lavadora EcoBubble                                               
+Precio: 2400.79        Stock:23
+TMN-884   Secadora de mano                                                 
+Precio: 310.65         Stock:10
+TXM-139   Televisor LED FULL HD 3D                                         
+Precio: 1092.95        Stock:5
+TYF-885   Videojuego TW 4                                                  
+Precio: 794.14         Stock:7
+TZY-323   Terma a gas                                                      
+Precio: 2341.01        Stock:31
+UCX-285   Galaxy Tab 3                                                     
+Precio: 3290.93        Stock:11
+UDR-957   Refrigeradora ECOTT 423 IXL                                      
+Precio: 861.70         Stock:19
+UJV-290   Cocina a gas Fassina Plus                                        
+Precio: 2423.26        Stock:10
+UOD-420   Mini componente ESX6                                             
+Precio: 828.94         Stock:10
+UTN-601   Autoradio XAV-601 BT                                             
+Precio: 562.51         Stock:4
+UWA-476   Autoradio MEX BT3150U                                            
+Precio: 1191.39        Stock:29
+UXG-019   Terma de acumulacion                                             
+Precio: 934.91         Stock:16
+VCL-867   Cocina a gas Rubi 2                                              
+Precio: 699.07         Stock:9
+VDD-853   Deshumedecedor  FAD30D7TSSW 3.4L 25-30m2                         
+Precio: 1095.67        Stock:16
+VJI-529   Horno Empotrable Electrico                                       
+Precio: 1102.67        Stock:16
+VRR-793   Rack Giratorio 32/60                                             
+Precio: 241.71         Stock:26
+VTV-269   Extractor de aire                                                
+Precio: 854.48         Stock:9
+VVS-017   Tablets MW 0731                                                  
+Precio: 2599.72        Stock:14
+VXS-438   Mouse Blue Tooth                                                 
+Precio: 60.11          Stock:17
+VZV-827   Refrigeradora Top Mount                                          
+Precio: 1784.27        Stock:2
+WLL-607   Cocina Electronica Convencion                                    
+Precio: 1525.04        Stock:1
+WZD-331   Refrigeradora ECOTT 465 IX                                       
+Precio: 1213.79        Stock:7
+XBD-314   Cocina a gas Fassina                                             
+Precio: 1444.90        Stock:8
+XLF-273   Centro de Lavado a Gas                                           
+Precio: 2371.95        Stock:20
+XOA-735   Congeladora Vertical 392 Lts.                                    
+Precio: 2708.07        Stock:12
+XSD-310   Refrigeradora No frost                                           
+Precio: 2259.93        Stock:17
+XTE-383   Rack Fijo 32/60                                                  
+Precio: 261.01         Stock:10
+XZG-521   Secadora Electrica FAQE7001LW                                    
+Precio: 704.27         Stock:22
+XZR-640   Lavadora-Secadora FWD                                            
+Precio: 2390.58        Stock:14
+YEZ-591   Lavadora WA                                                      
+Precio: 1320.03        Stock:9
+YGV-332   Impresora Led Color                                              
+Precio: 2517.66        Stock:18
+YJD-279   Cocina a gas Florencia                                           
+Precio: 1028.43        Stock:23
+YMU-875   Cocina a gas Plermo Quarzo                                       
+Precio: 3232.10        Stock:9
+YOT-530   Deshumedecedor DM-190H                                           
+Precio: 941.73         Stock:13
+YUQ-590   Refrigeradora  CoolStyle 395N Steel                              
+Precio: 1979.07        Stock:19
+YYK-309   Refrigeradora Door in Door                                       
+Precio: 4079.44        Stock:25
+YYU-726   Reproductor DVD Portatil                                         
+Precio: 767.82         Stock:14
+YZD-580   Mini componente ESX8                                             
+Precio: 1582.29        Stock:4
+ZAF-449   Tablet Cardle                                                    
+Precio: 816.43         Stock:16
+ZEX-027   Tablet Xperia Z                                                  
+Precio: 3843.75        Stock:23
+ZVA-180   Refrigeradora 322 litros                                         
+Precio: 2903.13        Stock:13
+ZWF-661   Impresora Led                                                    
+Precio: 2731.61        Stock:1
+ZXK-295   Cocina Empotrable Electrica                                      
+Precio: 3679.43        Stock:9

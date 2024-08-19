@@ -1,0 +1,319 @@
+54393647      Reyes Tang Edward                       
+        SPM4763     Eva
+        UCJ9882     El reino de este mundo
+Numero de pedidos del cliente: 2
+
+67066631      Arca Amezquita Edric Ronald             
+        CST1133     Inferno
+        KSX7995     El simbolo perdidoi
+        DVR5984     Mil soles esplendidos
+        JZC7527     El tambor de hojalata
+Numero de pedidos del cliente: 4
+
+32231860      Cerna Hijar Jose Rolando                
+        DDQ0721     En busca del tiempo perdido
+        RWW7975     El nombre de la rosa
+Numero de pedidos del cliente: 2
+
+14500753      Delgado Gonzales Guillermo Alfonso      
+        ALH8812     Guerra y Paz
+        OQK1590     Cometas en el cielo
+        JLQ6546     El retorno del Rey
+Numero de pedidos del cliente: 3
+
+26916299      Chung Lee Alvaro                        
+87804471      Diaz Antezano Magali Silvana            
+        JXK3142     En el camino
+        ZPD6557     El ruido y la furia
+        ELC8965     Las aventuras de Rocambole
+        ZOY6470     El viejo y el mar
+        ICU6090     La fiesta del chivo
+        CXW5879     Los barcos se pierden en tierra
+        RNG2321     El Aleph
+Numero de pedidos del cliente: 7
+
+81462164      Fernandez Ortega Elizabeth Elizabeth    
+        EZP0333     La Reina del Sur
+        CLG5566     Pantaleon y las visitadoras
+        CMP1150     Don Quijote de la Mancha
+Numero de pedidos del cliente: 3
+
+37500242      Pinto Calixto Shirley                   
+45834351      Santisteban Meza Rosa                   
+        VFZ9435     El olor de la Edad Media
+        BZY0235     Fausto
+        TVR7016     El corazon de las tinieblas
+Numero de pedidos del cliente: 3
+
+35030611      Cabrera Luna Shirley Isabel             
+        HRT0664     Los funerales de la Mama Grande
+Numero de pedidos del cliente: 1
+
+81082011      Shirakawa Ortega Angel                  
+        CXW5879     Los barcos se pierden en tierra
+        KBF4088     Harry Potter y el prisionero de Azkaban (Harry Potter 3)
+        JXK3142     En el camino
+        CRR5443     Un mundo feliz
+Numero de pedidos del cliente: 4
+
+92240876      Mejia Diaz Blanca Milagros              
+        BTX3816     El jugador
+        DEK2757     En llamas
+        SMI7078     Los cachorros
+        RZX8790     El senior de las moscas
+        EWI3090     La seniora Dalloway
+        OCI8959     David Copperfield
+Numero de pedidos del cliente: 6
+
+45181396      Cerna Durand Martin                     
+45002711      Landeo Sueldo Adolfo                    
+        DPZ8059     El hombre que pudo reinar
+        AKU9740     Conversacion en La Catedral
+        KWL0415     1923
+Numero de pedidos del cliente: 3
+
+96056368      Raffo Chung Adria Gloria                
+        GOG7446     El guardian entre el centeno
+        JXK3142     En el camino
+        HHR5161     El francotirador paciente
+Numero de pedidos del cliente: 3
+
+38724322      Inga Flores Cesar Adolfo                
+        RSK1164     El amor en los tiempos del colera
+        HGN9910     La ciudad y los perros
+        HWM4049     Romper el circulo
+Numero de pedidos del cliente: 3
+
+60740809      Lozada Yino Martha                      
+        XTM9385     El mundo
+        VSG3432     Bajo bandera negra
+        CTW5846     El medievo cristiano
+Numero de pedidos del cliente: 3
+
+49516360      Mendoza Egusquiza Rosario               
+        PQZ1316     La Eneida
+Numero de pedidos del cliente: 1
+
+34460612      Morales Valverde Ines Martha            
+        CRY6839     Ricardo III
+        VYG3594     Los demonios
+        PQZ1316     La Eneida
+        XCC4070     El italiano
+        SFR1226     Ana la de las tejas verdes
+        GUN8655     Angeles y demoniosi
+Numero de pedidos del cliente: 6
+
+11750801      Raffo Arias Surami Annie                
+        KGO1734     Una historia del mundo
+        CRY6839     Ricardo III
+        HCT8192     Diario
+        VDL9379     Los juegos del hambre
+        WYE2119     El asedio
+        KLV1872     Orgullo y prejuicio
+Numero de pedidos del cliente: 6
+
+85870289      Paredes Patino Christian                
+        HPP3360     El pintor de batallas
+Numero de pedidos del cliente: 1
+
+20449598      Velasquez Huayanay Edgard Henry         
+        NEW1762     Territorio comanche
+        WMN3648     Pasaje a la India
+        MLC7198     Los rios profundos
+Numero de pedidos del cliente: 3
+
+72832218      Vega Garcia Janet Rebeca                
+        HWM4049     Romper el circulo
+        MNL3677     El Hobbit
+        VMW6915     Travesuras de la ninia mala
+        SQB7146     Cronica de una muerte anunciada
+        IMK4892     La tabla de Flandes
+Numero de pedidos del cliente: 5
+
+66747161      Vasquez Paz Alex Martin                 
+        EEJ4830     El Principito
+        WYE2119     El asedio
+        KGO1734     Una historia del mundo
+Numero de pedidos del cliente: 3
+
+88080249      Coronel Chumpitaz Heli                  
+        NEO9165     Emperador de Roma
+        PZP7176     La caida de los gigantes
+        MEH2993     Hijos de un tiempo perdido
+        MBB0685     El capitan Alatriste
+Numero de pedidos del cliente: 4
+
+61212473      Forzani Caro Alonso                     
+        JGG5049     El eterno marido
+Numero de pedidos del cliente: 1
+
+21344013      Aquino Toro Valentina Rocio             
+        PCS8992     Y no quedo ninguno
+        UXZ2187     Los 7 habitos de la gente altamente efectiva
+        BXE0974     Los viajes de Gulliver
+        JEN0751     Ana Karenina
+        ZQD4253     Harry Potter y el misterio del principe ( Harry Potter 6)
+        USM9579     El perfume
+        CKR6798     El lobo estepario
+        IMC3155     Los pilares de la tierra
+Numero de pedidos del cliente: 8
+
+76693511      Laura Wong Melvin Henrry                
+79743481      Salas Aguero Daniel                     
+        EJE8138     Yawar fiesta
+Numero de pedidos del cliente: 1
+
+61039260      Cerna Pairazaman Fiorella Margot        
+14142586      Piscoya Bravo Cesar Bruno               
+36699613      Mejia De La Haza Francisco Edgar        
+        SMW0186     La sombra del viento
+        SBU9053     Tierra arrasada
+Numero de pedidos del cliente: 2
+
+14268463      Diaz Correa Irma Virginia               
+        FYV9055     Macbeth
+        VFI8064     A sangre fria
+        BZY0235     Fausto
+        PQZ1316     La Eneida
+        IFL0150     Romeo y Julieta
+        JNC0786     Mi isla
+Numero de pedidos del cliente: 6
+
+33958767      Perez Farfan Richard Sandro             
+        CRY6839     Ricardo III
+        RZX8790     El senior de las moscas
+        LRV5687     La guerra del fin del mundo
+        XIU6076     Rebelion en la granja
+        JZC7527     El tambor de hojalata
+Numero de pedidos del cliente: 5
+
+86898639      Pasquel Quio Surami Janet               
+        XIU2628     Cabo Trafalgar
+        UEJ1235     Grandes esperanzas
+        DEK2757     En llamas
+        FMX8255     Las aventuras de Huckleberry Finn
+        CJN4376     Harry Potter y la camara secreta (Harry Potter 2)
+Numero de pedidos del cliente: 5
+
+20610190      Auris Zimic Javier Daniel               
+        JZC7527     El tambor de hojalata
+Numero de pedidos del cliente: 1
+
+65071478      Arroyo Gordillo Maria Heli              
+        RWW7975     El nombre de la rosa
+        FYV9055     Macbeth
+        QRH6838     Las cronicas de Narnia
+        IPE3429     Sidi
+        MWB2923     Mudlarking
+Numero de pedidos del cliente: 5
+
+63602514      Shirakawa Miranda Madeleine             
+51235238      Prado Falcon Edgar Richard              
+        ZAL2738     1984
+Numero de pedidos del cliente: 1
+
+37751890      Romero Palomares Gloria Tatiana         
+        KWL0415     1923
+        IMK4892     La tabla de Flandes
+        HGQ0131     Odisea
+        RLQ7170     El tango de la guardia vieja
+        VMW6915     Travesuras de la ninia mala
+        CRY6839     Ricardo III
+        WGA2754     El club Dumas
+        FNM6936     Divina comedia
+Numero de pedidos del cliente: 8
+
+46582367      Justino Forzani Ericka Victoria         
+        IIM5175     Diamantes y pedernales
+        MBQ9495     Tormenta de espadas
+Numero de pedidos del cliente: 2
+
+27109544      Henriquez Espino Beatriz                
+        WWT1581     La piel del tambor
+        OBD2849     El invierno del mundo
+        CMP1150     Don Quijote de la Mancha
+        HSE3213     Por quien doblan las campanas
+        FNM6936     Divina comedia
+        ECT0289     Juego de tronos
+        WWT1581     La piel del tambor
+Numero de pedidos del cliente: 7
+
+17750908      Chumpitaz Iberos Ronal                  
+        QBL9575     Los miserables
+        DDQ0721     En busca del tiempo perdido
+        CKC4095     El Gran Gatsby
+        XJT3661     Las aventuras de Tom Sawye
+Numero de pedidos del cliente: 4
+
+66152145      Hernandez Barrios Emilio                
+42302422      Maldonado Ramirez Silvana               
+        YZV6954     Corazon de las tinieblas
+        QKH2262     Fiesta
+        WPU8819     Tristam Shandy
+        CTW5846     El medievo cristiano
+Numero de pedidos del cliente: 4
+
+37328103      Palomares Vera Henrry Humberto          
+48053960      Corrales Tsukazan Irma Lourdes          
+83265244      Wong Martel Madeleine                   
+        WWT1581     La piel del tambor
+        EJE8138     Yawar fiesta
+        JZU0977     El alquimista
+        PQB0775     El diablo de la botella y otros cuentos
+Numero de pedidos del cliente: 4
+
+50860318      Salazar Corrales Lorena Irma            
+87570336      Pairazaman Alamo Moises Miguel          
+47659552      Prado Vergel Carlos Julian              
+        QMI4747     La isla de los amores infinitos
+        IUI3314     El coronel no tiene quien le escriba
+        NFP3266     Sabotaje
+        QRH6838     Las cronicas de Narnia
+        XIU6076     Rebelion en la granja
+        VFI8064     A sangre fria
+        YJI3961     Cien anios de soledad
+        NBL8415     Espania con honra
+Numero de pedidos del cliente: 8
+
+57431952      Castro Suarez Rolando                   
+58717040      Cabrera Canales Guillermo Edric         
+33583840      Villa Yallico Tatiana Nancy             
+        KSX7995     El simbolo perdidoi
+        WPU8819     Tristam Shandy
+        JJV7549     Los hombres que no amaban a las mujeres
+        JBR9372     El maestro de esgrima
+Numero de pedidos del cliente: 4
+
+15129661      Valverde Flores Irma Ydali              
+        JSM8271     La Odisea
+        WOF6634     El problema final
+        RAO4129     Stalingrado
+        QCA9584     Dr. Jekyll y Mr. Hyde
+        FMX8255     Las aventuras de Huckleberry Finn
+Numero de pedidos del cliente: 5
+
+65830353      Caro Polo Sandro                        
+        TOJ1764     Ensayo sobre la ceguera
+        EDQ0577     Las aventuras de Pinocho
+        BZY0235     Fausto
+        GWE4133     El gato negro y otros cuentos
+        BDK4183     La isla del tesoro
+        VSG3432     Bajo bandera negra
+        HPP3360     El pintor de batallas
+Numero de pedidos del cliente: 7
+
+69200503      Norabuena Preciado Cinthia              
+        CPE5718     Paris era una fiesta
+        KGO1734     Una historia del mundo
+        ILG7766     Iliada
+        IUG2294     El proceso
+        DVL7760     Falco
+        UEJ1235     Grandes esperanzas
+        JXK3142     En el camino
+        IIM5175     Diamantes y pedernales
+        ZQY9966     El suenio del tio
+        GKG6581     Hombres buenos
+        ®O0ƒÑ     ¯OË	–ç°l
+        UXZ2187     Los 7 habitos de la gente altamente efectiva
+Numero de pedidos del cliente: 12
+

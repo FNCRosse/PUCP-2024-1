@@ -1,0 +1,22 @@
+/* 
+ * File:   NodoArbol.h
+ * Author: Rosa Cristina La Cruz Musayon
+ * Codigo: 20213714
+ * Created on 28 de octubre de 2023, 19:45
+ */
+
+#ifndef NODOARBOL_H
+#define NODOARBOL_H
+struct Guerrero{
+    int poder;
+    int Cantidad;
+};
+
+struct NodoArbol{
+    Guerrero elemento; 
+    struct NodoArbol *izquierda;
+    struct NodoArbol *derecha;
+};
+
+#endif /* NODOARBOL_H */
+

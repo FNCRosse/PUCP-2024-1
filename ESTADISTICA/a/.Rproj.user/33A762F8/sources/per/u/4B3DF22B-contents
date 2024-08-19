@@ -1,0 +1,38 @@
+# Cargar los datos
+datos <- read.csv("consumosal.csv")
+
+# Ver las primeras filas de los datos
+head(datos)
+
+# Describir los datos
+summary(datos)
+library(MASS)
+# Gamma
+fit_gamma <- fitdistr(datos$pre, "gamma")
+# Normal
+fit_normal <- fitdistr(datos$pre, "normal")
+# Log-Normal
+fit_lognormal <- fitdistr(datos$pre, "lognormal")
+# Weibull
+fit_weibull <- fitdistr(datos$pre, "weibull")
+fit_gamma
+fit_normal
+fit_lognormal
+fit_weibull
+
+l_weibull = function(theta,x){
+  alpha = theta[1]
+  beta = theta[2]
+  -sum(dweibull(x,alpha,beta,log = TRUE))
+}
+# Usando función nlminb
+mv_weibull=nlminb(
+  start= c(1,1),
+  objective = l_weibull,
+  lower= c(0,0),
+  upper = c(Inf,Inf),
+  x = datos$pre
+  )
+l_hat_weibull =-mv_weibull$objective
+mv_weibull$par
+l_hat_weibull
